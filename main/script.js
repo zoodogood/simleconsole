@@ -113,7 +113,7 @@ function biggest (a, b){
 }
 
 function help(){
-  return send("Доброго дня, вот примеры аналогичные примерам из видео: \n1. formula \n2. strange\n3. biggest\nВписывать в формате `formula 3 1`");
+  return send("Я даже не помню что значит `formula 3 1`...");
 }
 
 function getCoin(coinsPerO, timeout, time){
